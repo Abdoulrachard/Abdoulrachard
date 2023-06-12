@@ -76,7 +76,8 @@
   
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoulrachard&theme=radical" alt="Abdoulrachard " /></p> 
   
- <p align="centre" ><a href="https://wakatime.com/@27941e64-b212-4380-a49b-0a4b93dacb1d"><img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="Total time coded since Feb 27 2023" /><\a></p> 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ANONYMOUSII&theme=radical" alt="anonymous" /></p>
+
   
  ## <p align="center">Support me</p> 
   
