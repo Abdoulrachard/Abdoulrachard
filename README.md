@@ -37,7 +37,7 @@
   
  - 📫 How to reach me **Abdoulrachard@gmail.com** 
  <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdoulrachard&label=Profile%20views&color=0e75b6&style=flat" alt="Abdoulrachard" /> 
- <a href="https://wakatime.com/@27941e64-b212-4380-a49b-0a4b93dacb1d" ><img src="https://wakatime.com/badge/user/1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6.svg" alt="Total time coded since Feb 7 2023" /></a> 
+ <a href="" ><img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="Total time coded since Feb 7 2023" /></a> 
  </p> 
   
  <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> 
