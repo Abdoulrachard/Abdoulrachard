@@ -63,20 +63,20 @@
 
 
  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="laravel" /></a> 
+<\p>
 
 
- 
- </p> 
+
   
   
  ## <p align="center">🔥 &nbsp; Github Statistics</p> 
- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdoulrachard&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Abdoulrachard de " /></p> 
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdoulrachard&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Abdoulrachard " /></p> 
   
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoulrachard&langs_count=10&theme=radical" alt="Abdoulrachard" /></p> 
   
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoulrachard&theme=radical" alt="Abdoulrachard " /></p> 
   
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Abdoulrachard&theme=radical" alt="Abdoulrachard " /></p> 
+ <p align="centre" ><a href="https://wakatime.com/@27941e64-b212-4380-a49b-0a4b93dacb1d"><img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="Total time coded since Feb 27 2023" /><\a></p> 
   
  ## <p align="center">Support me</p> 
   
