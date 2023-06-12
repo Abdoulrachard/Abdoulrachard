@@ -33,10 +33,10 @@
   
  - 👨‍💻 All of my projects are available at [My Portfolio](https://.com) 
   
- - 💬 Ask me about **HTML, CSS, PHP, JavaScript,  Python/Django, Bootstrap ** 
+ - 💬 Ask me about **HTML, CSS, PHP, JavaScript,  Python, Django, Bootstrap ** 
   
  - 📫 How to reach me **Abdoulrachard@gmail.com** 
- <p align="left"><img src="https://komarev.com/ghpvc/?username=BlakvGhost&label=Profile%20views&color=0e75b6&style=flat" alt="BlakvGhost" /> 
+ <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdoulrachard&label=Profile%20views&color=0e75b6&style=flat" alt="BlakvGhost" /> 
  <a href="https://wakatime.com/@1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6"><img src="https://wakatime.com/badge/user/1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6.svg" alt="Total time coded since Feb 7 2023" /></a> 
  </p> 
   
@@ -63,7 +63,7 @@
 
 
  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="laravel" /></a> 
- <a href="https://www.firebase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a> 
+
 
  <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a> 
  </p> 
