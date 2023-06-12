@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Abdoul Rachard LAWINGNI </h1> 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm  Abdoul LAWINGNI </h1> 
  <h5 align="center">I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bénin. I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms...</h5> 
   
  <div id="badges" align="center"> 
@@ -36,8 +36,8 @@
  - 💬 Ask me about **HTML, CSS, PHP, JavaScript,  Python, Django, Bootstrap ** 
   
  - 📫 How to reach me **Abdoulrachard@gmail.com** 
- <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdoulrachard&label=Profile%20views&color=0e75b6&style=flat" alt="BlakvGhost" /> 
- <a href="https://wakatime.com/@1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6"><img src="https://wakatime.com/badge/user/1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6.svg" alt="Total time coded since Feb 7 2023" /></a> 
+ <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdoulrachard&label=Profile%20views&color=0e75b6&style=flat" alt="Abdoulrachard" /> 
+ <a href="https://wakatime.com/@27941e64-b212-4380-a49b-0a4b93dacb1d" ><img src="https://wakatime.com/badge/user/1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6.svg" alt="Total time coded since Feb 7 2023" /></a> 
  </p> 
   
  <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> 
@@ -65,7 +65,7 @@
  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="laravel" /></a> 
 
 
- <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a> 
+ 
  </p> 
   
   
