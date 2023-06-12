@@ -13,7 +13,7 @@
    </a> 
 
 
-   <a href="https://www.twitter.com" target="_blank" rel="noreferrer"> 
+   <a href="https://twitter.com/AbdoulRach20738" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> 
    </a> 
    <a href="https://dev.to" target="_blank" rel="noreferrer"> 
