@@ -35,8 +35,7 @@
   
   
  ## <p align="center">🛠 &nbsp;Languages and Tools :</p> 
-  <p align="center">
-
+ <div id="badges" align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
@@ -48,7 +47,7 @@
 <a href="https://www.django.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="laravel" /></a>
 
-</p>
+</div>
  
  ## <p align="center">🔥 &nbsp; Github Statistics</p> 
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdoulrachard&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Abdoulrachard " /></p> 
