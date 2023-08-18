@@ -22,7 +22,7 @@
   
  - 🌱 I’m currently learning **laravel 10** 
   
- - 👨‍💻 All of my projects are available at [My Portfolio](abdoulrachard.netlify.app ) 
+ - 👨‍💻 All of my projects are available at [My Portfolio](https://abdoulrachard.netlify.app/) 
   
  - 💬 Ask me about **HTML, CSS, PHP, JavaScript,  Python, Django, Bootstrap ** 
   
