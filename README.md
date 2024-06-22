@@ -24,7 +24,7 @@
   
  - 👨‍💻 All of my projects are available at [My Portfolio](https://lawingni-rachard.onrender.com) 
   
- - 💬 Ask me about **HTML, CSS, PHP, JavaScript,  Python, Django, Bootstrap ** 
+ - 💬 Ask me about **HTML, CSS, PHP, JavaScript,  Python, Django, Bootstrap , Laravel ** 
   
  - 📫 How to reach me **Abdoulrachard@gmail.com** 
  <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdoulrachard&label=Profile%20views&color=0e75b6&style=flat" alt="Abdoulrachard" /> 
