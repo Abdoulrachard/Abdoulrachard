@@ -10,7 +10,7 @@
    <a href="https://dev.to/Abdoulrachard" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Devto-yellow?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo Badge"/> 
    </a> 
-   <a href="https://.medium.com" target="_blank" rel="noreferrer"> 
+   <a href="https://abdoulrachard.medium.com" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/> 
    </a> 
  </div> 
