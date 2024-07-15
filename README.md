@@ -38,18 +38,17 @@
 <p align="center">
   <img alt="Vuejs" src="https://img.shields.io/badge/-VueJS-45b8d8?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-ffe500?style=flat-square&logo=vite" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-1a73e8?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-311C87?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-430098?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/-Tailwind-430098?style=flat-square&logo=tailwind&logoColor=blue" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS-ea2845?style=flat-square&logo=css&logoColor=white" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-DD0031?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
