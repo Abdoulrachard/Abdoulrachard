@@ -52,7 +52,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Mysql" src="https://img.shields.io/badge/-MySql-F7B93E?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/-MySql-1a73e8?style=flat-square&logo=mysql&logoColor=white" />
 
 
  <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Statistics</h2>
